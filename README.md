@@ -1,5 +1,6 @@
 # Class Members
 *Tulay Samara
+*Kahila Jenerette
 ## Instructor
 
 The instructor's name is Scott Dossey
